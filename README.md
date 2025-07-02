@@ -33,7 +33,7 @@ AI自动会找到合适的Prompt处理。
 
 快速学习n8n
 
-      ![](https://upload.cc/i1/2025/07/02/sY6yZK.jpg)
+  ![](https://upload.cc/i1/2025/07/02/sY6yZK.jpg)
 
 
 ---
