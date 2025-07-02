@@ -33,7 +33,7 @@ AI自动会找到合适的Prompt处理。
 
 @prompt  快速学习mcp
 
-![](https://upload.cc/i1/2025/07/02/sY6yZK.jpg)
+   ![](https://upload.cc/i1/2025/07/02/sY6yZK.jpg)
 
 
 ---
@@ -79,7 +79,7 @@ mcp-prompt-server/
    npm install
    ```
    
-  ![](https://upload.cc/i1/2025/07/02/mKPxvs.jpg)
+     ![](https://upload.cc/i1/2025/07/02/mKPxvs.jpg)
 
 2. **启动服务器**
 
@@ -87,7 +87,7 @@ mcp-prompt-server/
    npm start
    ```
   
-  ![](https://upload.cc/i1/2025/07/02/u63ZRG.jpg)
+     ![](https://upload.cc/i1/2025/07/02/u63ZRG.jpg)
 
    启动后，MCP Prompt Server会自动加载`src/prompts/`目录下所有Prompt模板，并以MCP工具形式对外提供服务。
 
