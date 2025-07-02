@@ -31,9 +31,9 @@ AI自动会找到合适的Prompt处理。
 
 **Cherrystudio 为例，演示效果**
 
-@prompt  快速学习mcp
+快速学习n8n
 
-   ![](https://upload.cc/i1/2025/07/02/sY6yZK.jpg)
+      ![](https://upload.cc/i1/2025/07/02/sY6yZK.jpg)
 
 
 ---
