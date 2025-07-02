@@ -79,7 +79,7 @@ mcp-prompt-server/
    npm install
    ```
    
-  ![](  https://img.t5t6.com/1747729312139-9472ed65-469e-46a6-b620-1187b089a0e3.png )
+  ![](https://upload.cc/i1/2025/07/02/mKPxvs.jpg)
 
 2. **启动服务器**
 
@@ -87,7 +87,7 @@ mcp-prompt-server/
    npm start
    ```
   
-  ![](  https://img.t5t6.com/1747729312139-9472ed65-469e-46a6-b620-1187b089a0e3.png )
+  ![](https://upload.cc/i1/2025/07/02/u63ZRG.jpg)
 
    启动后，MCP Prompt Server会自动加载`src/prompts/`目录下所有Prompt模板，并以MCP工具形式对外提供服务。
 
@@ -110,8 +110,8 @@ mcp-prompt-server/
    ![](https://upload.cc/i1/2025/07/02/oHyRpA.jpg)
 
 3. 给MCP输入一个名字，建议简单点，方便以后@使用，比如叫 `prompt`
-4. Command 填写 `node`
-5. Argument 填写你的 `index.js` 路径地址
+4. 命令 填写 `node`
+5. 参数 填写你的 `index.js` 路径地址
 
    ![](https://upload.cc/i1/2025/07/02/oHyRpA.jpg)
 
@@ -132,6 +132,7 @@ mcp-prompt-server/
 3. 打开vscode 设置（快捷键 `ctrl + ,`） 搜索MCP,点击 `Edit in setting.json`
 
    ![](Vhttps://upload.cc/i1/2025/07/02/EfMrYg.jpg)
+   
 4. 将下列json复制粘贴到图中位置，args 填写你的 `index.js` 路径地址
     ```json
       "prompt-server": {
