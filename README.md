@@ -131,7 +131,7 @@ mcp-prompt-server/
 2. 按照提示完成Copilot授权
 3. 打开vscode 设置（快捷键 `ctrl + ,`） 搜索MCP,点击 `Edit in setting.json`
 
-   ![](Vhttps://upload.cc/i1/2025/07/02/EfMrYg.jpg)
+   ![](https://upload.cc/i1/2025/07/02/EfMrYg.jpg)
    
 4. 将下列json复制粘贴到图中位置，args 填写你的 `index.js` 路径地址
     ```json
